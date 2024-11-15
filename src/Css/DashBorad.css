@@ -33,3 +33,18 @@
     padding: 15px;
     color: white;
 }
+
+#customer{
+    background-image: url("../Assert/background-coffee.jpeg");
+    background-size: auto 990px;
+}
+
+#item{
+    background-image: url("../Assert/background-order.jpeg");
+    background-size: auto 860px;
+}
+
+#order{
+    background-image: url("../Assert/background-orders.jpeg");
+    background-size: auto 860px;
+}
